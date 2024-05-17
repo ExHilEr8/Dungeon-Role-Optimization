@@ -1,5 +1,4 @@
 import requests
-import json
 from bs4 import BeautifulSoup
 
 def get_lodestone_url(player_id) -> str:
