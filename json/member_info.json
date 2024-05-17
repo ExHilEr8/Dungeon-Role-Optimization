@@ -1,43 +1,43 @@
 {
     "players": {
         "Keys" : {
-            "discord_id" : 123768566016245760,
-            "lodestone_id" : 31364164,
+            "discord_id" : "123768566016245760",
+            "lodestone_id" : "31364164",
             "informal_names" : ["Keys", "Edi", "Wes", "Edison"]
         },
         "Ex" : {
-            "discord_id" : 123536697769197569,
-            "lodestone_id" : 31387362,
+            "discord_id" : "123536697769197569",
+            "lodestone_id" : "31387362",
             "informal_names" : ["Ex", "ExHilEr8", "Justin"]
         },
         "Jolo" : {
-            "discord_id" : 271123643495350272,
-            "lodestone_id" : 16560605,
+            "discord_id" : "271123643495350272",
+            "lodestone_id" : "16560605",
             "informal_names" : ["Jolo", "Dawg", "Jolo Dawg"]
         },
         "Kimio" : {
-            "discord_id" : 189288765930340352,
-            "lodestone_id" : 47851176,
+            "discord_id" : "189288765930340352",
+            "lodestone_id" : "47851176",
             "informal_names" : ["Kimio", "Mio", "Kimi", "Alex", "Mi Mi", "Kimioso"]
         },
         "Beth" : {
-            "discord_id" : 283835685662883841,
-            "lodestone_id" : 30818543,
+            "discord_id" : "283835685662883841",
+            "lodestone_id" : "30818543",
             "informal_names" : ["Beth", "Bethy", "Bethy Boo"]
         },
         "Shadow" : {
-            "discord_id" : 104376298574475264,
-            "lodestone_id" : 48931484,
+            "discord_id" : "104376298574475264",
+            "lodestone_id" : "48931484",
             "informal_names" : ["Shadow"]
         },
         "Gekiko" : {
-            "discord_id" : 150382711083761664,
-            "lodestone_id" : 40202664,
+            "discord_id" : "150382711083761664",
+            "lodestone_id" : "40202664",
             "informal_names" : ["Gekiko", "Geiko", "Gecko", "Kiko"]
         },
         "Green" : {
-            "discord_id" : 174787669090500609,
-            "lodestone_id" : 7923219,
+            "discord_id" : "174787669090500609",
+            "lodestone_id" : "7923219",
             "informal_names" : ["Green", "Green Machine", "Machine", "Greeny", "GM", "Mean Greeny"]
         }
     }
